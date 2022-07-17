@@ -2,7 +2,13 @@
 TrianglDB
 ============
 
-`PyPi Project <https://pypi.org/project/TriangleDB/>`_
+***************
+Installation:
+***************
+
+Run this command in your project folder::
+
+  curl "https://raw.githubusercontent.com/28klotlucas2/SimpleDatabase/main/src/__init__.py" -O "TrianglDB.py"
 
 ***************
 Usage:
