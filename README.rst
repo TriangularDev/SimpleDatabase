@@ -4,13 +4,13 @@ TrianglDB
 ***************
 Usage:
 ***************
-See example.py for a better example.
+See example.py for a better example::
 
-database = TrianglDB.db("DATABASE") Creates a database.
+  database = TrianglDB.db("DATABASE") Creates a database.
 
-database.setkey("key", "value") Sets a key.
+  database.setkey("key", "value") Sets a key.
 
-database.getkey("key") Gets a key. If the key dosen't exist, it will return None instead.
+  database.getkey("key") Gets a key. If the key dosen't exist, it will return None instead.
 
 ***************
 Reasons to use:
