@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='example_publish_pypi_medium',
-    version='0.6',
+    name='SimpleDatabase',
+    version='0.15',
     license='MIT',
-    author="Giorgos Myrianthous",
-    author_email='email@example.com',
+    author="Me",
+    author_email='me@me.me',
     packages=find_packages('src'),
     package_dir={'': 'src'},
     url='https://github.com/gmyrianthous/example-publish-pypi',
