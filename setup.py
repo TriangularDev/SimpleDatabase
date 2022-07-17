@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='SimpleDatabase',
-    version='0.15',
+    name='TriangleDB',
+    version='1.0',
     license='MIT',
     author="Me",
     author_email='me@me.me',
