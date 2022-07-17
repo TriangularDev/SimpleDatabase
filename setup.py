@@ -9,7 +9,7 @@ setup(
     author_email='me@me.me',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/28klotlucas2/SimpleDatabase',
     keywords='database',
     install_requires=[],
 
