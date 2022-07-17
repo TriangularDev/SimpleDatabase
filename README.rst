@@ -1,6 +1,9 @@
 ============
 TrianglDB
 ============
+
+`PyPi Project <https://pypi.org/project/TriangleDB/>`_
+
 ***************
 Usage:
 ***************
