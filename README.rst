@@ -30,4 +30,4 @@ Reasons to use:
 
 3. It's easy to use. Literally just two commands. No aysnc stuff or whatever.
 
-4. There is a low risk of data corruption. Just storing an entire database in one file makes it easy to be corrupted by just a few bytes. Trust me, fixing broken json and SQLITE files are a pain. Especially large ones.
+4. There is a low risk of data corruption. Just storing an entire database in one file makes it easy to be corrupted by just a few bytes. Trust me, fixing broken json files are a pain. Especially large ones.
